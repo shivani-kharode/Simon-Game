@@ -2,13 +2,12 @@ A browser-based interactive Simon Says memory game built using HTML, CSS, and Ja
 The user must remember the sequence of flashing colors and repeat the same pattern to reach the next level.
 Each level increases the difficulty by adding a new color to the sequence.
 
-Live Demo
-
+## Live Demo
 🔗 Play the Game: 
-
+https://shivani-kharode.github.io/Simon-Game/
 
 🔗 Source Code:
-
+https://github.com/shivani-kharode/Simon-Game
 
 🧠 How the Game Works
 
